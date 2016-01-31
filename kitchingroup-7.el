@@ -4,6 +4,9 @@
 
 ;; Version: 0.0.1
 ;; Author: John Kitchin <jkitchin@andrew.cmu.edu>
+;;  Jens K. Nørskov
+;;  Mark A. Barteau
+;;  Jingguang G. Chen
 ;; Journal: Journal of Chemical Physics
 ;; DOI: 10.1063/1.1737365
 ;; Bibtex: @article{kitchin-2004-modif-pt,
