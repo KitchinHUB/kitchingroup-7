@@ -10,7 +10,7 @@
 ;; Journal: Journal of Chemical Physics
 ;; DOI: 10.1063/1.1737365
 ;; Bibtex: @article{kitchin-2004-modif-pt,
-;;   author =	 {Kitchin, J. R. and N{\o}rskov, J. K. and Barteau, M. A. and
+;;   author =	 {Kitchin, J. R. and Nørskov, J. K. and Barteau, M. A. and
 ;;                   Chen, J.  G.},
 ;;   title =	 {Modification of the Surface Electronic and Chemical Properties
 ;;                   of {Pt}(111) By Subsurface 3d Transition Metals},
