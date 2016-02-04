@@ -49,8 +49,5 @@
 
 (cappa-register 'kitchingroup-7)
 
-
-(provide 'kitchingroup-7)
-
 (provide 'kitchingroup-7)
 ;;; kitchingroup-7.el ends here
