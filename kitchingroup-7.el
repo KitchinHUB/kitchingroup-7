@@ -1,4 +1,4 @@
-;;; kitchingroup-7.el --- CaPPA preprint for doi:10.1063/1.1737365
+;;; kitchingroup-7.el --- Modification of the Surface Electronic and Chemical Properties of {Pt}(111) By Subsurface 3d Transition Metals
 
 ;; Copyright (C) 2016 John Kitchin
 
